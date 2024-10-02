@@ -1,0 +1,19 @@
+.Hale {
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+    height: 183px;
+    margin: 20px 10px auto;
+ margin-top: 10%;
+    transform-origin: bottom;
+    width: 216px;
+}
+
+  .temp {
+    animation-name: temp;
+    animation-timing-function: ease;
+}
+@keyframes temp {
+  0%   { transform: translateY(0); }
+  50%  { transform: translateY(-200px); }
+  100% { transform: translateY(0); }
+}

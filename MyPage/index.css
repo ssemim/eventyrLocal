@@ -1,0 +1,27 @@
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+
+#information{
+
+grid-auto-flow:row;
+
+}
+
+#invenwraper{
+
+    flex-direction:column;
+    text:center;
+}
+
+.w-1/3{
+
+    width:80%
+}
+
+
+#inven{
+
+    width:300px;
+}
+    
+}

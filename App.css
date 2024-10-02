@@ -1,0 +1,50 @@
+
+
+*{
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  
+      }
+
+
+      body::-webkit-scrollbar {
+        width: 8px;  /* 스크롤바의 너비 */
+    }
+    
+    body::-webkit-scrollbar-thumb {
+        height: 30%; /* 스크롤바의 길이 */
+        background: #193448; /* 스크롤바의 색상 */
+        
+        border-radius: 10px;
+    }
+    
+    body::-webkit-scrollbar-track {
+        background: rgba(33, 122, 244, .1);  /*스크롤바 뒷 배경 색상*/
+    }
+      
+
+.clickEffect{
+    position:fixed;
+    box-sizing:border-box;
+    border-style:solid;
+    border-color:#52B2BF;
+   border-radius:50%;
+   animation:clickEffect 0.6s ease-out;
+    z-index:99999;
+    }
+    
+    @keyframes clickEffect{
+   0%{
+   opacity:1;
+   width:0.25em; height:0.25em;
+  margin:-0.25em;
+  border-width:0.25em;}
+  100%{
+  opacity:0.2;
+    width:3em; height:3em;
+    margin:-1.5em;
+    border-width:0.03em;
+  }
+    }

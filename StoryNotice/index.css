@@ -1,0 +1,11 @@
+.logoClick:hover{
+
+    transform: scale(1.1); 
+    transition: all ease 1s;
+  }
+
+  #next:hover{
+
+    transform: scale(1.4); 
+    transition: all ease 1s;
+  }

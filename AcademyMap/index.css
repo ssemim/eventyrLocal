@@ -1,0 +1,248 @@
+/*아카데미 지도*/
+.AcademyMap{
+
+position: relative;
+
+}
+
+.ClickButton{
+
+width: 100%;
+height: 100%;
+background-color:transparent;
+cursor: pointer;
+
+}
+
+.AcademyPopHeader{
+
+font-family: 'RIDIBatang';
+
+}
+.AcademyPopUP{
+
+font-family: 'RIDIBatang';
+
+}
+
+
+
+.GoToMain{
+
+position: absolute;
+width: 25%;
+height: 15%;
+left: 75%;
+top: 85%;
+cursor: pointer;
+}
+
+
+.MainBuilding{
+
+position: absolute;
+width: 30%;
+height: 25%;
+top:5%;
+left: 44%;
+
+}
+
+.MainBuilding{
+
+position: absolute;
+width: 28%;
+height: 25%;
+top:7%;
+left: 42%;
+
+}
+
+.AmilgueForest{
+
+position: absolute;
+width: 18%;
+height: 30%;
+top:0%;
+left: 0%;
+
+}
+
+.LineGarden{
+
+position: absolute;
+width: 28%;
+height: 28%;
+top:32%;
+left: 0%;
+
+
+}
+
+.Flaze{
+
+position: absolute;
+width: 15%;
+height: 15%;
+top:68%;
+left: 22%;
+
+
+}
+
+.Enslo{
+
+position: absolute;
+width: 18%;
+height: 16%;
+top:50%;
+left: 34%;
+
+}
+
+.Fountain{
+
+position: absolute;
+width: 13%;
+height: 10%;
+top:63%;
+left: 10%;
+
+
+}
+
+.Vintre{
+
+position: absolute;
+width: 18%;
+height: 16%;
+top:40%;
+left: 65%;
+
+}
+
+.Thiophe{
+position: absolute;
+width: 11%;
+height: 15%;
+top:60%;
+left: 0%;
+
+}
+
+.Dormitory{
+
+position: absolute;
+width: 25%;
+height: 16%;
+top:65%;
+left: 63%;
+
+}
+
+.Libary{
+
+position: absolute;
+width: 18%;
+height: 16%;
+top:26%;
+left: 67%;
+
+}
+
+.WaterFall{
+
+
+position: absolute;
+width: 20%;
+height: 16%;
+top:0%;
+left: 22%;
+
+}
+
+.NForest{
+
+position: absolute;
+width: 14%;
+height: 16%;
+top:28%;
+left: 85%;
+
+}
+
+.Lighthouse{
+position: absolute;
+width: 11%;
+height: 11%;
+top:77%;
+left: 10%;
+
+}
+
+.Shore{
+position: absolute;
+width: 11%;
+height: 11%;
+top:85%;
+left: 20%;
+
+}
+
+.PrayerRoom{
+
+position: absolute;
+width: 10%;
+height: 22%;
+top:10%;
+left: 27%;
+
+}
+
+.MiddleSquare{
+
+  position: absolute;
+  width: 10%;
+  height: 10%;
+  top:35%;
+  left: 44%;
+  
+  }
+
+  .RadixWall{
+
+    position: absolute;
+    width: 22%;
+    height: 15%;
+    top:12%;
+    left: 70%;
+    
+    }
+
+    .Cafeteria{
+
+      position: absolute;
+      width: 10%;
+      height: 8%;
+      top:32%;
+      left: 25%;
+      
+      }
+
+      .Trail{
+        position: absolute;
+        width: 11%;
+        height: 11%;
+        top:45%;
+        left: 82%;
+      
+      }
+      
+.Bridge{
+position: absolute;
+width: 11%;
+height: 11%;
+top:82%;
+left: 50%;
+
+}

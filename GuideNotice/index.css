@@ -1,0 +1,32 @@
+
+  .full-screen-square {
+    position:absolute;
+    margin: auto;
+    top: 0;
+    left: 5%;
+    width: 90vw;
+    height: 100vh;
+    cursor: pointer;
+  }
+  
+
+  .Hale {
+    align-self: flex-end;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+    height: 300px;
+    margin: 0 auto 0 auto;
+ margin-top: 20%;
+    transform-origin: bottom;
+    width: 300px;
+}
+
+  .temp {
+    animation-name: temp;
+    animation-timing-function: ease;
+}
+@keyframes temp {
+  0%   { transform: translateY(0); }
+  50%  { transform: translateY(-100px); }
+  100% { transform: translateY(0); }
+}

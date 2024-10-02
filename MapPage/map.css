@@ -1,0 +1,201 @@
+.video-title{
+  
+  font-size: x-small;
+  
+  }
+  
+  .HashText{
+    padding: 1%;
+  }
+  
+  
+  .FormerText{
+    padding-bottom: 2%;
+  
+  }
+  
+  
+  .MapText{
+  
+    position: inherit;
+    width: 78%;
+  }
+  
+  .modal-header{
+  
+  border-bottom: none;
+  
+  }
+  
+
+
+.max-w-72{
+
+
+position: absolute;
+top:84%;
+right: 2%;
+
+}
+
+.max-w-72:hover{
+
+  transform: scale(1.05); 
+  transition: all ease 1s;
+
+}
+
+#worldtext{
+
+  top:70%;
+
+}
+
+
+  @media (min-width:768px) {
+
+    
+.NoMobile{
+  display: none;
+}
+.MapArea0{ 
+  /*롬스타틴*/
+  position: absolute;
+  width: 23.5%;
+  height: 36%;
+  top:-2px;
+  left: 34.2%;
+  background-color: transparent;
+  display: block;
+  z-index:1;
+   cursor: pointer;
+}
+
+
+.MapArea0:hover {
+  
+  background: url("https://i.ibb.co/wy1Q8fF/Map-Hover1.png"), no-repeat;
+ background-size: cover;
+      }
+
+      .MapArea1{
+          /*시네스토*/
+        position: absolute;
+         width: 32%;
+        height: 40%;
+        top:0px;
+        left: 48%;
+        background-color: transparent;
+        display: block;
+        z-index:1;
+         cursor: pointer;
+      }
+      
+      .MapArea1:hover {
+        
+        background: url("https://i.ibb.co/D8FnzYg/Map-Hover2.png"), no-repeat;
+       background-size: cover;
+       
+            }
+
+            .MapArea2{
+              /*리드애프턴*/
+            position: absolute;
+            width: 26%;
+            height: 55%;
+            top:32%;
+            left: 10%;
+            background-color: transparent;
+            display: block;
+             z-index:1;
+             cursor: pointer;
+          }
+          
+          .MapArea2:hover {
+            
+            background: url("https://i.ibb.co/MfrnfXp/Map-Hover3.png"), no-repeat;
+           background-size: cover;
+           
+                }
+                .MapArea3{
+                  /*뮤테스*/
+                position: absolute;
+                width: 26%;
+                height: 46%;
+                top:22%;
+                left: 24%;
+                background-color: transparent;
+                display: block;
+                 z-index:1;
+                 cursor: pointer;
+              }
+              
+              .MapArea3:hover {
+                
+                background: url("https://i.ibb.co/Vmps2Pr/Map-Hover4.png"), no-repeat;
+               background-size: cover;
+               
+                    }
+
+                    .MapArea4{
+                      /*켈메스*/
+                    position: absolute;
+                    width: 22%;
+                    height: 58%;
+                    top:36%;
+                    left: 39%;
+                    background-color: transparent;
+                    display: block;
+                     z-index:1;
+                     cursor: pointer;
+                  }
+                  
+                  .MapArea4:hover {
+                    
+                    background: url("https://i.ibb.co/T2WWhsP/Map-Hover5.png"), no-repeat;
+                   background-size: cover;
+                   
+                        }
+
+
+                        .MapArea5{
+                          /*오플로트*/
+                        position: absolute;
+                        width: 27%;
+                        height: 48%;
+                        top:27%;
+                        left: 51%;
+                        background-color: transparent;
+                        display: block;
+                         z-index:1;
+                         cursor: pointer;
+                      }
+                      
+                      .MapArea5:hover {
+                        
+                        background: url("https://i.ibb.co/4pHNCXf/Map-Hover6.png"), no-repeat;
+                       background-size: cover;
+                       
+                            }
+
+
+                            .MapArea6{
+                              /*헤브니센*/
+                            position: absolute;
+                            width: 22%;
+                            height: 40%;
+                            top:28%;
+                            left: 67%;
+                            background-color: transparent;
+                            display: block;
+                             z-index:1;
+                             cursor: pointer;
+                          }
+                          
+                          .MapArea6:hover {
+                            
+                            background: url("https://i.ibb.co/3fgTmnh/Map-Hover7.png"), no-repeat;
+                           background-size: cover;
+                           
+                                }
+                              }
